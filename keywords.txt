@@ -1,0 +1,10 @@
+# Objects
+USBPrinter KEYWORD1
+
+# Common Functions
+Task	KEYWORD2
+idVendor	KEYWORD2
+idProduct	KEYWORD2
+manufacturer	KEYWORD2
+product	KEYWORD2
+serialNumber	KEYWORD2
